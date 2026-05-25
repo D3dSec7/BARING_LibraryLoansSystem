@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Desktop\C# shi\LibraryLoansSystem\LibraryLoansSystem\bin\Debug\net10.0\LibraryLoansSystem.exe
+C:\Users\PC\OneDrive\Desktop\C# shi\LibraryLoansSystem\LibraryLoansSystem\bin\Debug\net10.0\LibraryLoansSystem.deps.json
+C:\Users\PC\OneDrive\Desktop\C# shi\LibraryLoansSystem\LibraryLoansSystem\bin\Debug\net10.0\LibraryLoansSystem.runtimeconfig.json
+C:\Users\PC\OneDrive\Desktop\C# shi\LibraryLoansSystem\LibraryLoansSystem\bin\Debug\net10.0\LibraryLoansSystem.dll
+C:\Users\PC\OneDrive\Desktop\C# shi\LibraryLoansSystem\LibraryLoansSystem\bin\Debug\net10.0\LibraryLoansSystem.pdb
+C:\Users\PC\OneDrive\Desktop\C# shi\LibraryLoansSystem\LibraryLoansSystem\obj\Debug\net10.0\LibraryLoansSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\C# shi\LibraryLoansSystem\LibraryLoansSystem\obj\Debug\net10.0\LibraryLoansSystem.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\C# shi\LibraryLoansSystem\LibraryLoansSystem\obj\Debug\net10.0\LibraryLoansSystem.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\C# shi\LibraryLoansSystem\LibraryLoansSystem\obj\Debug\net10.0\LibraryLoansSystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\C# shi\LibraryLoansSystem\LibraryLoansSystem\obj\Debug\net10.0\LibraryLoansSystem.sourcelink.json
+C:\Users\PC\OneDrive\Desktop\C# shi\LibraryLoansSystem\LibraryLoansSystem\obj\Debug\net10.0\LibraryLoansSystem.dll
+C:\Users\PC\OneDrive\Desktop\C# shi\LibraryLoansSystem\LibraryLoansSystem\obj\Debug\net10.0\refint\LibraryLoansSystem.dll
+C:\Users\PC\OneDrive\Desktop\C# shi\LibraryLoansSystem\LibraryLoansSystem\obj\Debug\net10.0\LibraryLoansSystem.pdb
+C:\Users\PC\OneDrive\Desktop\C# shi\LibraryLoansSystem\LibraryLoansSystem\obj\Debug\net10.0\LibraryLoansSystem.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Desktop\C# shi\LibraryLoansSystem\LibraryLoansSystem\obj\Debug\net10.0\ref\LibraryLoansSystem.dll

@@ -1,0 +1,8 @@
+5/22/2026 11:05:55 PM | ADD | Added Record ID 1
+5/22/2026 11:06:06 PM | READ | Viewed records
+5/22/2026 11:06:14 PM | READ | Searched baring
+5/22/2026 11:06:33 PM | UPDATE | Updated Record ID 1
+5/22/2026 11:06:37 PM | READ | Viewed records
+5/22/2026 11:06:47 PM | DELETE | Soft deleted Record ID 1
+5/22/2026 11:06:55 PM | REPORT | Generated report
+5/22/2026 11:06:58 PM | READ | Viewed records
